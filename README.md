@@ -24,7 +24,7 @@ delete one document
 BasicPoJo pojo =BasicPoJo.findFirst(BasicPoJo.class, eq("id", idvalue));  
 pojo.delete();
 
-count number of document  
+count number of documents    
 int number =BasicPoJo.count(BasicPoJo.class, eq("id", idvalue));    
 
 aggregate support would be added later  
