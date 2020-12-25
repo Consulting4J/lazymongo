@@ -4,7 +4,7 @@
 By contributing code to this repository, you agree to make your contribution available under an Apache 2.0 license.  
 **lazymongo**  support all the primary data types like int, long, double and String.  
 float is saved as double (mongodb internal storage support double only) and restored as float.  
-It also support collections and map, the combination of these primary types , collections, map, including embedded document are supported as well.
+It also support collections and map, the combination of these primary types , collections, map, including embedded document are supported as well.  
 The official mongodb driver don't support such complex combinations.  
 
 usage:  
