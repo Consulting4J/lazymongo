@@ -1,9 +1,8 @@
 # lazymongo  
 
-**lazymongo** an Apache 2.0-licensed scientific computing library for the JVM. By contributing code to this repository, you agree to make your contribution available under an Apache 2.0 license.  
-
-**lazymongo** is an easy to use mongodb orm framework.   
-It support all the primary data types like int, long, double and String.  
+**lazymongo** an Apache 2.0-licensed mongodb orm framework.  
+By contributing code to this repository, you agree to make your contribution available under an Apache 2.0 license.  
+**lazymongo**  support all the primary data types like int, long, double and String.  
 float is saved as double (mongodb internal storage support double only) and restored as float.  
 It also support collections and map, the embedded and mixed document are also supported.
 
