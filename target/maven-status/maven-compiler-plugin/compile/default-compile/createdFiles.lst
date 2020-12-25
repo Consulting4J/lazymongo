@@ -1,0 +1,5 @@
+com\consulting4j\lazymongo\CollectionCodec.class
+com\consulting4j\lazymongo\MapCodec.class
+com\consulting4j\lazymongo\DocumentCodec.class
+com\consulting4j\lazymongo\MongoPoJo.class
+com\consulting4j\lazymongo\PrimaryTypeCodec.class

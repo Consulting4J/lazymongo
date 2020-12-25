@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/org/mongodb/mongodb-driver/3.12.5/mongodb-driver-3.12.5.jar" sourcepath="M2_REPO/org/mongodb/mongodb-driver/3.12.5/mongodb-driver-3.12.5-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/mongodb/bson/3.12.5/bson-3.12.5.jar" sourcepath="M2_REPO/org/mongodb/bson/3.12.5/bson-3.12.5-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/mongodb/mongodb-driver-core/3.12.5/mongodb-driver-core-3.12.5.jar" sourcepath="M2_REPO/org/mongodb/mongodb-driver-core/3.12.5/mongodb-driver-core-3.12.5-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.13/junit-4.13.jar" sourcepath="M2_REPO/junit/junit/4.13/junit-4.13-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
