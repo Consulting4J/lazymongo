@@ -1,5 +1,5 @@
 # lazymongo  
-# **lazymongo** is an easy to use mongodb orm framework.   
+**lazymongo** is an easy to use mongodb orm framework.   
 It support all the primary data types like int, long, double and String.  
 float is saved as double (mongodb internal storage support double only) and restored as float.  
 It also support collections and map, the embedded and mixed document are also supported.
