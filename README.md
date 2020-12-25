@@ -17,7 +17,7 @@ pojo.update();
 find one document  
 BasicPoJo pojo =BasicPoJo.findFirst(BasicPoJo.class, eq("id", idvalue));  
 
-find list of document
+find list of document  
 List\<BasicPoJo\> pojos =BasicPoJo.findAny(BasicPoJo.class, eq("id", idvalue));  
 
 delete one document  
