@@ -6,6 +6,7 @@ By contributing code to this repository, you agree to make your contribution ava
 float is saved as double (mongodb internal storage support double only) and restored as float.  
 It also support collections and map, the combination of these primary types , collections, map, including embedded document are supported as well.  
 The official mongodb driver don't support such complex combinations.  
+This library fit for small dataset, if you are going to pull out a huge amount of documents into a List, then OOM may occurs.  
 
 usage:  
 insert document  
