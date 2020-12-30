@@ -2,8 +2,7 @@
 
 **lazymongo** an Apache 2.0-licensed mongodb orm framework.  
 By contributing code to this repository, you agree to make your contribution available under an Apache 2.0 license.  
-**lazymongo**  support all the primary data types like int, long, double and String.  
-float is saved as double (mongodb internal storage support double only) and restored as float.  
+**lazymongo**  support all the primary data types like boolean, int, long, float, double and String.  
 It also support collections and map, the combination of these primary types , collections, map, including embedded document are supported as well.  
 The official mongodb driver don't support such complex combinations.  
 Flexibility is the goal of this library, it fit for small datasets, if you are going to pull out a huge amount of documents into a List, then OOM may occurs. 
