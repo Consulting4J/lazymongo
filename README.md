@@ -1,6 +1,6 @@
 # Lazymongo  
 
-**Lazymongo** an Apache 2.0-licensed mongodb orm framework.  
+**Lazymongo** is an Apache 2.0-licensed mongodb orm framework.  
 By contributing code to this repository, you agree to make your contribution available under an Apache 2.0 license.  
 **Lazymongo**  support all the primary data types like boolean, int, long, float, double and String.  
 It also support collections and map, the combination of these primary types , collections, map, including embedded document are supported as well.  
